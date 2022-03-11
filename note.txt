@@ -1,0 +1,28 @@
+bài 4: alert: hiển thị hộp thoại cảnh báo 
+bài 5: khai báo biến : var
+bài 6: comment // /*comment*/, ctrl + /
+bài 7: hàm built-in
+    alert : hộp thoại
+    cosole
+      cosole.log('') in ra dòng log
+      cosole.warn('') cảnh báo
+      cosole.error('') lỗi
+    confirm : hộp thoại confirm ok cancal
+    prompt : hộp thoại có ô input
+    set timeout : 1 đoạn code chạy sau 1 thời gian (mile giây)
+        setTimeout( funtion(){
+                alert('thongbao')
+        }, 1000)
+    set interval : chạy liên tục
+bài 8: toán tử
+bài 9: toán tử
+bài 10: toán tử ++ -- Prefox & Postfix
+bài 11: toán tử gán
+bài 12: cộng chuỗi
+bài 13: toán tử =, >=, <=,...
+bài 14: boolean
+bài 15: if else
+bài 16: toán tử logic && || !
+bài 17: kiểu dữ liệu
+bài 18: toán tử ===, !==
+bài 19: if else
